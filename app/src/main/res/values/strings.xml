@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cisco Helper</string>
+    <string name="cidr24">255.255.255.0</string>
+</resources>
